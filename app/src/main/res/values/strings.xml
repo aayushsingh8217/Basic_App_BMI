@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My_App_BMI</string>
+    <string name="hint_wt">Wazan Batao Sahab</string>
+    <string name="hint_htft">Kitne lambe ho(Ft)?</string>
+    <string name="hint_htinch">Kitne lambe ho(Inch)?</string>
+    <string name="bt_text">Dabao aur BMI pao</string>
+    <string name="res_txt">Ye Lo dekho</string>
+</resources>

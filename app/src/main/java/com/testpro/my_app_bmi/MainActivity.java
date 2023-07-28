@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
                 }
                 else if (bmi>30) {
                     res_txt.setText("take care of your health for god's sake");
-                    llm.setBackgroundColor(ContextCompat.getColor(MainActivity.this,R.color.gende));
+                    llm.setBackgroundColor(ContextCompat.getColor(MainActivity.this,R.color.vvoverwt));
                 }
             }
         });

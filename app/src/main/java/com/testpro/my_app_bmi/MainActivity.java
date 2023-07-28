@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
                     llm.setBackgroundColor(ContextCompat.getColor(MainActivity.this,R.color.bhari));
                 }
                 else if (bmi>30) {
-                    res_txt.setText("gende bhai kam khao dharti ka bhooj");
+                    res_txt.setText("take care of your health for god's sake");
                     llm.setBackgroundColor(ContextCompat.getColor(MainActivity.this,R.color.gende));
                 }
             }
